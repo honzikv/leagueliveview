@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/leagueliveview/static/css/main.073c9b0a.css",
+    "main.js": "/leagueliveview/static/js/main.6801e35b.js",
+    "static/js/787.c6006e9a.chunk.js": "/leagueliveview/static/js/787.c6006e9a.chunk.js",
+    "static/media/logo.svg": "/leagueliveview/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/leagueliveview/index.html",
+    "main.073c9b0a.css.map": "/leagueliveview/static/css/main.073c9b0a.css.map",
+    "main.6801e35b.js.map": "/leagueliveview/static/js/main.6801e35b.js.map",
+    "787.c6006e9a.chunk.js.map": "/leagueliveview/static/js/787.c6006e9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6801e35b.js"
+  ]
+}
